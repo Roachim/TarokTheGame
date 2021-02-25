@@ -1,0 +1,61 @@
+﻿Rules of Tarok:
+
+* Each game has 25 rounds
+* every round someone wins the trick
+
+* 3 players, including a dealer.
+
+* Whenever one of the cups are empty, all players contribute 20 points each to the empty cup.
+
+* At the start of the game, each player gets 25 cards except the dealer who gets 28.
+* The cards are dealt out by the dealer.
+- When cards have been dealt at the start of the game, the dealer discards 3 cards of his own choice. 
+- After dealer discard cards, accouncements get made.
+- After the accouncement, the dealer plays the first, after which the other players try to match it
+-If the players cannot match the cards color, they play a Tarot, if they can.
+-Otherwise, if they can play nothing, they discard a card.
+
+*Cards:
+-Each card has a color, except tarots.
+-The colors are read and black.
+-A deck contains 78 cards. For each of the four suit suit we have:
+- number cards from 1 to 10. 40 cards
+-Pages, knights, kings and queen. 16 cards
+-Tarots with number. 22 cards total, including 1 La scusa
+-The tarot cards each contain a number from 2-20, excluding the mondo and pagate.
+
+*Tarots include special cards:
+- The La Scusa, with no value.
+- The Mondo with a value of 21
+- The pagate with a value of 1.
+
+*After the last round:
+-When the last trick has been played, The winner of that trick gets 5 points from the other players
+-If a player loses the last trick with a pagate or king, he has to pay 60 points to each of the players, and double the content of the respective cup.
+-If a player hasd won the last trick with a Pagate or king, he is awarded 60 point from each of the other players. plus the content of the respective cup. This is called the ultimate.
+-If a player has avoided getting any tricks, the game is nulo and that player gets 70 points from each of the other players.
+
+*End of game Points
+-Each trick won gives 1 point.
+-The special cards each give 4 points.
+-Pages give 1 point
+-Knights give 2 points
+-Queens give 3 points.
+-Kings give 4 points
+-77 points can be given total through this.
+
+-The winner is then decided.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
