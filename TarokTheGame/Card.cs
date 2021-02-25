@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TarokTheGame
 {
-    public class Card
+    public class Card : ICard
     {
     }
 }

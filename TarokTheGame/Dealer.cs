@@ -14,7 +14,7 @@ namespace TarokTheGame
             for (int i = 0; i < 78; i++)
             {
                 var mockCard = new Mock<ICard>();
-
+                Card card = mockCard.Object;
                 Cards.Add(mockCard.Object);
             }
         }
